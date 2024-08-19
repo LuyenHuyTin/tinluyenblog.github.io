@@ -17,16 +17,12 @@ avatar: https://drive.google.com/file/d/1qqUsyeuNbb5L5lTE9MJimZhyxZSU23tx/view?u
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
-  email:
-  facebook:
-  flickr:
+  email: tinluyen2001@gmail.com
+  facebook: https://www.facebook.com/tinluyen1112/
   github: barryclark/jekyll-now
-  instagram:
-  linkedin:
-  pinterest:
+  instagram: https://www.instagram.com/thl.1116/
+  linkedin: https://www.linkedin.com/in/luyenhuytin1112/
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
